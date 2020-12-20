@@ -9,5 +9,5 @@
 
 Feito com ❤️ por Luiz André 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/la-carvalho/)](https://www.linkedin.com/in/la-carvalho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/la-carvalho/)](https://www.linkedin.com/in/la-carvalho/) 
 [![Gmail Badge](https://img.shields.io/badge/-luizandre.ita@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizandre.ita@gmail.com)](mailto:luizandre.ita@gmail.com)
